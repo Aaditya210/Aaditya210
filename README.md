@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Aaditya Sardar 👋</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | Building AI-Driven Products & Scalable Systems
+Product-Focused Software Engineer | Building AI-Driven Products, Scalable Systems & Automation Platforms
 </h3>
 
 <p align="center">
-Focused on automation, backend architecture, distributed systems, and AI-powered product engineering.
+Focused on system design, backend architecture, distributed systems, automation engineering, and building scalable products that solve real business problems.
 </p>
 
 <p align="center">
