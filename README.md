@@ -28,22 +28,25 @@ Focused on system design, backend architecture, distributed systems, automation 
 
 I'm a Software Engineer focused on building scalable systems, automation platforms, and AI-driven products that solve real business problems.
 
-Currently, I'm building **aidriventesting.ai** at **JigNect**, an AI-powered testing platform focused on automating QA workflows and improving engineering efficiency.
+I approach engineering from a product and systems perspective rather than just feature development.
 
-Previously at **Synoptek**, I worked on enterprise-scale migration and automation systems, including:
-- Leading a **1.9 TB Google Workspace → Microsoft ecosystem migration**
-- Automating migration validation and reporting workflows
-- Building internal reporting systems and dashboards
-- Developing mobile-responsive enterprise applications using Power Apps
+My focus is on:
+- Designing scalable architectures
+- Building maintainable systems
+- Solving operational bottlenecks through automation
+- Creating products that remain reliable under growth
+- Translating business problems into scalable technical solutions
 
-I enjoy working on:
-- Backend systems
-- Product engineering
-- Distributed systems
-- Automation platforms
-- AI-integrated applications
-- System scalability & reliability
-- Cloud-based architectures
+I enjoy working on engineering problems involving:
+- System Design
+- Backend Architecture
+- Scalability Engineering
+- Distributed Systems
+- Workflow Automation
+- Reliability Engineering
+- AI-Augmented Products
+- Enterprise Architecture
+- Performance Optimization
 
 ---
 
@@ -64,6 +67,8 @@ I enjoy working on:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=flat-square&logo=framer)
 
 ---
 
@@ -72,6 +77,16 @@ I enjoy working on:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![REST API](https://img.shields.io/badge/-REST_API-black?style=flat-square&logo=fastapi)
+
+---
+
+## Additional Backend & Infrastructure
+
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
+![Sentry](https://img.shields.io/badge/-Sentry-black?style=flat-square&logo=sentry)
+![Resend](https://img.shields.io/badge/-Resend-black?style=flat-square)
 
 ---
 
@@ -100,6 +115,52 @@ I enjoy working on:
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+## AI & Product Engineering
+
+![AI Product Strategy](https://img.shields.io/badge/-AI_Product_Strategy-black?style=flat-square)
+![AI Solution Design](https://img.shields.io/badge/-AI_Solution_Design-black?style=flat-square)
+![AI Use Case Identification](https://img.shields.io/badge/-AI_Use_Case_Identification-black?style=flat-square)
+![AI Roadmapping](https://img.shields.io/badge/-AI_Roadmapping-black?style=flat-square)
+![Product Discovery](https://img.shields.io/badge/-Product_Discovery_for_AI-black?style=flat-square)
+![Model Context Protocol](https://img.shields.io/badge/-Model_Context_Protocol-black?style=flat-square)
+
+
+## System Design & Architecture
+
+![Systems Design](https://img.shields.io/badge/-Systems_Design-black?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/-Operating_Systems-black?style=flat-square)
+![Data Structures](https://img.shields.io/badge/-Data_Structures-black?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/-Computer_Networks-black?style=flat-square)
+![DBMS](https://img.shields.io/badge/-DBMS-black?style=flat-square)
+![Object Oriented Programming](https://img.shields.io/badge/-OOP-black?style=flat-square)
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square)
+
+
+## Enterprise & Automation
+
+![Microsoft Entra ID](https://img.shields.io/badge/-Microsoft_Entra_ID-black?style=flat-square&logo=microsoft)
+![Microsoft Graph](https://img.shields.io/badge/-Microsoft_Graph-black?style=flat-square&logo=microsoft)
+![Google Workspace](https://img.shields.io/badge/-Google_Workspace-black?style=flat-square&logo=googleworkspace)
+![Google Apps Script](https://img.shields.io/badge/-Google_Apps_Script-black?style=flat-square&logo=google)
+![Dataverse](https://img.shields.io/badge/-Dataverse-black?style=flat-square&logo=microsoft)
+
+
+## Analytics & SEO
+
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-black?style=flat-square&logo=googleanalytics)
+![Google Search Console](https://img.shields.io/badge/-Google_Search_Console-black?style=flat-square&logo=google)
+![Domain Propagation](https://img.shields.io/badge/-Domain_Propagation-black?style=flat-square)
+
+---
+
+## Collaboration & Product Tools
+
+![Miro](https://img.shields.io/badge/-Miro-black?style=flat-square&logo=miro)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Agile](https://img.shields.io/badge/-Agile_Methodologies-black?style=flat-square)
 
 ---
 
@@ -306,15 +367,26 @@ Building systems that scale, automate workflows, and turn complex problems into 
 
 - Distributed Systems
 - Event-Driven Architecture
+- Async processing systems
 - Backend Scalability
 - AI-Augmented Product Engineering
 - System Reliability & Observability
 - Cloud Infrastructure
 - Performance Optimization
+- Failure isolation
 - Workflow Automation
 - Enterprise Architecture
 - Security & Identity Systems
 - Product Thinking for Engineers
+
+- # System Design & Architecture Interests
+
+I’m particularly interested in how large-scale systems behave under:
+- high traffic
+- operational constraints
+- failure scenarios
+- scaling bottlenecks
+- distributed workloads
 
 ---
 
@@ -356,10 +428,33 @@ What drives me as an engineer:
 
 # Core Engineering Principles
 
-```text
-✔ Simplicity scales better than unnecessary complexity
-✔ Fast systems avoid unnecessary work
-✔ Reliability matters more than clever code
-✔ Scalability is about failure isolation, not just traffic handling
-✔ Good architecture reduces future decision cost
-✔ Automation should eliminate repetitive operational effort
+
+✔ Architecture quality compounds over time  
+✔ Product thinking matters as much as technical execution  
+✔ Scalable systems are built through good trade-offs  
+✔ Reliability and maintainability are long-term engineering advantages  
+✔ Engineering should simplify operations, not increase complexity
+
+
+
+# Languages
+
+| Language | Proficiency |
+|---|---|
+| English | Professional Fluency |
+| Hindi | Professional Fluency |
+| Marathi | Professional Fluency |
+| Gujarati | Native / Bilingual |
+| French | Basic / Learning |
+
+---
+
+<!-- REPLACE YOUR CURRENT FOOTER WITH THIS -->
+
+<p align="center">
+Building scalable products, automation systems, and architectures designed for long-term reliability.
+</p>
+
+<p align="center">
+Focused on product engineering, system design, backend scalability, and solving complex operational problems through software.
+</p>
