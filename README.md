@@ -248,7 +248,7 @@ Automation solution built during Synoptek internship to streamline enterprise-sc
 - SharePoint
 - Power Automate
 
-🔗 GitHub Repo: `Add Repository Link`
+
 
 ---
 
@@ -267,7 +267,7 @@ Interactive reporting dashboard built for an automobile client to improve operat
 - JavaScript
 - Charting Libraries
 
-🔗 GitHub Repo: `Add Repository Link`
+
 
 ---
 
@@ -286,7 +286,7 @@ Mobile-responsive enterprise workflow application built for a US-based chemical 
 - Power Automate
 - SharePoint
 
-🔗 GitHub Repo: `Add Repository Link`
+
 
 ---
 
@@ -358,10 +358,7 @@ I'm actively interested in:
 
 ---
 
-<p align="center">
-Building systems that scale, automate workflows, and turn complex problems into reliable products.
-</p>
-# Engineering Interests
+
 
 ## Areas I Deeply Enjoy Exploring
 
